@@ -41,4 +41,4 @@ Tech I more use: PHP, Laravel, JavaScript, Python, React, Node.js, MySQL, Postgr
 
 # Site
 
-[![My site](https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://dbjdp8dfutn6v.cloudfront.net)  
+[![My site]([https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://dbjdp8dfutn6v.cloudfront.net](https://onlinecurriculo.com.br/r/eo2yTQt2e))  
