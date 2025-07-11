@@ -39,6 +39,6 @@ Tech I more use: PHP, Laravel, JavaScript, Python, React, Node.js, MySQL, Postgr
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tcarva94@gmail.com)   
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521972974602)  
 
-# Site
+# Curriculum
 
-[![My site]([https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://dbjdp8dfutn6v.cloudfront.net](https://onlinecurriculo.com.br/r/eo2yTQt2e))  
+[![My site]([https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://onlinecurriculo.com.br/r/eo2yTQt2e)  
